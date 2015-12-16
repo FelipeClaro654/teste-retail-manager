@@ -1,6 +1,11 @@
 # Teste Retail Manager
 Uma aplicação simples para testar as habilidades com Ruby on Rails.
 
+##### Configuração
+O teste deve ser feito utilizando:
+- Rails 4.2.0 +
+- Ruby 2.2.0 +
+
 ##### Procedimento
 Fazer um fork do projeto, e ao finalizar fazer um pull request para o repositório original.
 
@@ -26,6 +31,7 @@ Cor e tamanho não precisa ter CRUD, apenas crie os modelos e popule com alguns 
 
 ##### Requisitos
 - Escrever testes utilizando RSpec ou MiniTest. (Nosso projeto atual usa RSpec)
+  e Capybara
 - Não utilizar o scaffold. Mostre sua habilidade em criar views, controllers, models, sem usar scaffold.
 - Organização e legibilidade do código
 - Se utilizar gems, listar quais gems foram utilizadas, e para qual finalidade
