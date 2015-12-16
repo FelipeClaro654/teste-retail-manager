@@ -25,9 +25,12 @@ Por exemplo, ele pode ter no estoque:
 Etc...
 
 ##### O que você irá fazer:
-Precisamos uma tela onde seja possível cadastrar um produto com nome e descrição, e relacionar novas cores, tamanhos e quantidade utilizando Nested Forms.
+Precisamos de uma tela onde seja possível cadastrar um produto com nome e descrição, e relacionar novas cores, tamanhos e quantidade utilizando Nested Forms. Após o cadastro, temos que ter uma tela onde listar os produtos disponíveis em cada combinação de tamanho e cor.
 
 Cor e tamanho não precisa ter CRUD, apenas crie os modelos e popule com alguns dados de teste para serem relacionados ao produto (Pode ser um arquivo de seed).
+
+##### Exemplo de banco de dados
+![Alt text](https://raw.githubusercontent.com/penkz/teste-retail-manager/master/public/Teste_Retail_Manager.png)
 
 ##### Requisitos
 - Escrever testes utilizando RSpec ou MiniTest. (Nosso projeto atual usa RSpec)
